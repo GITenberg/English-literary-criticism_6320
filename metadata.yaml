@@ -1,0 +1,40 @@
+_repo: English-literary-criticism_6320
+contributor:
+  creator:
+    editor:
+      agent_name: Herford, C. H. (Charles Harold)
+      alias: Herford, Charles Harold
+      birthdate: 1853
+      deathdate: 1931
+      gutenberg_agent_id: '5599'
+      url: http://www.gutenberg.org/2009/agents/5599
+      wikipedia: http://en.wikipedia.org/wiki/C._H._Herford
+creator:
+  author:
+    agent_name: Vaughan, Charles Edwyn
+    birthdate: 1854
+    deathdate: 1922
+    gutenberg_agent_id: '7852'
+    url: http://www.gutenberg.org/2009/agents/7852
+description: ''
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6320'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- History and criticism'
+- !lcc 'PN'
+- !lcsh 'Criticism -- Great Britain'
+- !lcc 'PR'
+tableOfContents: 'Introduction -- Sir Philip Sidney: An apology for poetry -- John
+  Dryden: Preface to the Fables -- Samuel Johnson: On the metaphysical poets -- Samuel
+  Taylor Coleridge: On poetic genius and poetic diction -- William Hazlitt: On poetry
+  in general -- Charles Lamb: On the artificial comedy of the last century -- On Webster''s
+  ''Duchess of Malfi'' -- On Ford''s ''Broken heart'' -- Percy Bysshe Shelley: A defence
+  of poetry -- Thomas Carlyle: Goethe -- Walter Pater: Sandro Botticelli.'
+title: English literary criticism
+url: http://www.gutenberg.org/ebooks/6320
