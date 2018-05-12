@@ -1,4 +1,5 @@
 _repo: English-literary-criticism_6320
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -9,6 +10,9 @@ contributor:
       gutenberg_agent_id: '5599'
       url: http://www.gutenberg.org/2009/agents/5599
       wikipedia: http://en.wikipedia.org/wiki/C._H._Herford
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Vaughan, Charles Edwyn
@@ -17,6 +21,8 @@ creator:
     gutenberg_agent_id: '7852'
     url: http://www.gutenberg.org/2009/agents/7852
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6320#English-literary-criticism
 gutenberg_issued: '2004-08-01'
 gutenberg_type: Text
 identifiers:
